@@ -1,0 +1,12 @@
+/test/build/
+/node_modules/
+/coverage/
+/test/tmp/
+/www/.store-android.js
+/www/.store-ios.js
+*~
+
+npm-debug.log
+/.idea
+/demo
+/git_modules
